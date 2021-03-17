@@ -1,0 +1,5 @@
+B1: Sẽ xuất ra các địa chỉ ngẫu nhiên.
+
+B2: k = 5.
+
+B3: Biến c thuộc kiểu char và biến p thuộc kiểu double, 2 kiểu khác nhau không thể trỏ đến nhau.
